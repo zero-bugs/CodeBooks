@@ -7,3 +7,6 @@ https://www.jianshu.com/p/38d13a7c1b78
 
 other related skill:
 https://developer.ibm.com/cn/blog/2018/opentec-loopback/
+
+Node.js learning:
+http://www.runoob.com/nodejs/nodejs-http-server.html
