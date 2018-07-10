@@ -11,6 +11,9 @@ https://www.jianshu.com/p/406ef92d8d2d
 Author mainpage:
 https://github.com/tumobi
 
+deployment:
+https://segmentfault.com/a/1190000010213828
+
 other related skill:
 https://developer.ibm.com/cn/blog/2018/opentec-loopback/
 
