@@ -14,6 +14,11 @@ https://github.com/tumobi
 deployment:
 https://segmentfault.com/a/1190000010213828
 
+NVM:
+https://github.com/creationix/nvm
+
+
+
 other related skill:
 https://developer.ibm.com/cn/blog/2018/opentec-loopback/
 
