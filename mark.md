@@ -16,3 +16,7 @@ https://developer.ibm.com/cn/blog/2018/opentec-loopback/
 
 Node.js learning:
 http://www.runoob.com/nodejs/nodejs-http-server.html
+
+
+Vue.js Learning:
+https://cn.vuejs.org/v2/guide/index.html
