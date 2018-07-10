@@ -16,7 +16,8 @@ https://segmentfault.com/a/1190000010213828
 
 NVM:
 https://github.com/creationix/nvm
-
+NPM:
+http://npm.taobao.org/
 
 
 other related skill:
