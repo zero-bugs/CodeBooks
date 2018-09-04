@@ -1,13 +1,37 @@
-https://gitee.com/jeeshop/jeeshop
-https://gitee.com/binu/xbin-store
+https://www.jianshu.com/p/bd48bdb4ff04
 
-微信小程序商城 (后台开源) 。快速搭建一个属于自己的微信小程序商城。
-https://gitee.com/fuyang_lipengjun/platform
+龙果支付系统是国内首款开源的互联网支付系统，其核心目标是汇聚所有主流支付渠道，打造一款轻量、便捷、易用，且集支付、资金对账、资金清结算于一体的支付系统，满足互联网业务系统的收款和业务资金管理需求。
+码云地址：https://gitee.com/roncoocom/roncoo-pay
+强力 Java 爬虫，列表分页、详细页分页、ajax、微内核高扩展、配置灵活
+码云地址：https://gitee.com/l-weiwei/spiderman 
+授权协议：Apache
 
-一直以来找不到合适的开源微信商城，本人最终自主研发，基于jfinal web框架开发出微信商城，微信分销商城，并经过客户锤炼，源码拿来即可对项目进行实施，节省大部分时间去陪老婆。。。创业维艰，哄好老婆也很重要。。。
-https://gitee.com/dianbuapp/jfinal-wxmall
+准确率 99.9% 的 ip 地址定位库，0.0x 毫秒级查询，数据库文件大小只有 1.5M，提供了java，php，c，python，nodejs，golang 查询绑定和 Binary，B树，内存三种查询算法，妈妈再也不用担心我的 ip 地址定位！
+码云地址：https://gitee.com/lionsoul/ip2region
+
+EasyPR 是一个中文的开源车牌识别系统，其目标是成为一个简单、高效、准确的车牌识别引擎。相比于其他的车牌识别系统，EasyPR有如下特点：* 它基于openCV这个开源库。这意味着你可以获取全部源代码，并且移植到java等平台。* 它能够识别中文。例如车牌为苏EUK722的图片，它可以准确地输出std:string类型的"苏EUK722"的结果。* 它的识别率较高。图片清晰情况下，车牌检测与字符识别可以达到80%以上的精度。
+码云地址：https://gitee.com/easypr/EasyPR 
+授权协议：Apache
 
 
-系统成熟、流程完善、细节精致、使用简单。极低的成本投入，30秒安装部署，选好模版一键导入。最快出网站，最快赚到钱。网市场云建站系统，历经8年，不断完善，拒绝半成品！
-注重实际业务应用，一切以建站公司的利益为主。如果贵公司也有网站建设业务、或想做这方面业务，而我的项目对你有帮助，欢迎联系我微信(xnx3com)洽谈合作。
-https://gitee.com/mail_osc/wangmarket
+可能是目前最好最全的微信Java开发工具包，支持包括微信支付、开放平台、公众号、企业号、小程序等的开发
+码云地址：https://gitee.com/binary/weixin-java-tools 
+授权协议：Apache
+
+sequence：分布式高效 ID 生产黑科技
+高效 GUID 产生算法(sequence)，基于 Snowflake 实现 64 位自增 ID 算法。Twitter-Snowflake 算法产生的背景相当简单，为了满足 Twitter 每秒上万条消息的请求，每条消息都必须分配一条唯一的id，这些id还需要一些大致的顺序（方便客户端排序），并且在分布式系统中不同机器产生的id必须不同。
+码云地址：https://gitee.com/yu120/sequence
+
+
+PornHubBot：网络爬虫
+全球最大chengren网站 PornHub 爬虫 （Scrapy、MongoDB） 一天 500w 的数据
+码云地址：https://gitee.com/xiyouMc/pornhubbot 
+授权协议：MIT
+
+
+Tale是一款简洁美观的Java博客系统，让每一个有故事的人更好的表达想法！使用了轻量级 mvc 框架Blade开发，默认主题使用了漂亮的pinghsu。
+码云地址：https://gitee.com/biezhi/tale 
+
+
+贝密游戏是一系列棋牌游戏的名称，其中包含麻将、斗地主、德州，目前正在进行UI设计以及后台系统（JAVA）开发！ http://d.beixi.me
+https://gitee.com/beimigame/beimi
